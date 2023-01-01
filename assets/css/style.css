@@ -13,6 +13,14 @@ header {
     color: #eaeaea;
 }
 
+footer {
+    background-color: #3c4048;
+}
+
+.p-info-detail {
+    color: #eaeaea;
+}
+
 /* ---------------------------Special paddings/margins/text */
 
 h1,h2,h3,h4 {
@@ -53,4 +61,40 @@ h1,h2,h3,h4 {
 a {
     text-decoration: none;
     color: #eaeaea;
+}
+
+.p-info {
+    color: #eaeaea;
+    text-transform: uppercase;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.foot-info {
+    text-align: center;
+}
+
+.foot-down {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.foot-down a i {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.foot-links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-links {
+    font-size: 2em;
+    margin: 10px;
+}
+
+.p-info-detail {
+    margin: 5px;
 }
