@@ -99,3 +99,11 @@ a {
     margin: 5px;
     font-family: 'Mukta', sans-serif;
 }
+
+/* ---------------------------images */
+
+img {
+    height: auto;
+    max-width: 90%;
+    margin: 10px;
+}
