@@ -21,6 +21,14 @@ footer {
     color: #eaeaea;
 }
 
+.hero-images {
+    background-color: #eaeaea;
+}
+
+.about-header {
+    background-color: #eaeaea;
+}
+
 /* ---------------------------Special paddings/margins/text */
 
 h1,h2,h3,h4 {
@@ -100,10 +108,15 @@ a {
     font-family: 'Mukta', sans-serif;
 }
 
+.about-header {
+    font-family: 'Ubuntu', sans-serif;
+}
+
 /* ---------------------------images */
 
 img {
     height: auto;
-    max-width: 90%;
-    margin: 10px;
+    max-width: 80%;
+    margin: 20px 0 20px 0;
+    padding: 0;
 }
