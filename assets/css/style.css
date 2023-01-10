@@ -94,6 +94,15 @@ a {
     padding: 0;
 }
 
+.color-change {
+    transition: 1s;
+}
+
+.color-change:hover {
+    color: #00abb3;
+    transition: 1s;
+} 
+
 .social-links {
     font-size: 2em;
     margin: 10px;
@@ -106,6 +115,7 @@ a {
 
 .about-header {
     font-family: 'Ubuntu', sans-serif;
+    color: #3c4048;
 }
 
 .about-text {
@@ -113,9 +123,10 @@ a {
     margin: auto;
     margin-top: 1.5rem;
     margin-bottom: 3rem;
-    text-align: justify;
+    text-align: left;
     font-family: 'Mukta', sans-serif;
     font-size: 1.2em;
+    color: #3c4048;
 }
 
 /* ---------------------------images */
